@@ -1,5 +1,5 @@
 """
-Takes a takeoff worksheet and removes duplicate items, summing the quantities
+Takes a takeoff worksheet and removes duplicate items, summing the quantities.
 """
 import pandas as pd
 from tkinter import filedialog
