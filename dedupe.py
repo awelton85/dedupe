@@ -1,5 +1,6 @@
 """
 Script to remove duplicate items in a takeoff worksheet and sum their quantities.
+Updated for python 3.11.3 on 2023-05-11
 """
 
 import pandas as pd
